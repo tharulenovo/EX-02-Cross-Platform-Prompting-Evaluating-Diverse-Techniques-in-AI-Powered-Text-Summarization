@@ -20,9 +20,10 @@ User experience
 
 ## Output
 
-[CHATGPT .pdf](https://github.com/user-attachments/files/23020250/CHATGPT.pdf)
+[CHATGPT.pdf](https://github.com/user-attachments/files/23020298/CHATGPT.pdf)
 
-[GEMINI .pdf](https://github.com/user-attachments/files/23020248/GEMINI.pdf)
+[GEMINI.pdf](https://github.com/user-attachments/files/23020303/GEMINI.pdf)
+
 
 
 
