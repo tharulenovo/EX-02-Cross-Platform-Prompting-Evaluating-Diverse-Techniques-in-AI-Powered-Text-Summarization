@@ -18,7 +18,13 @@ Speed
 
 User experience
 
-## Algorithm
+## Output
+
+[CHATGPT.pdf](https://github.com/user-attachments/files/23020250/CHATGPT.pdf)
+
+[GEMINI.pdf](https://github.com/user-attachments/files/23020248/GEMINI.pdf)
+
+
 
 ## Result
 
